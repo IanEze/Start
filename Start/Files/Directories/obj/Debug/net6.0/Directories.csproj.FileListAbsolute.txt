@@ -1,0 +1,15 @@
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.csproj.AssemblyReference.cache
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\ianvi\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\ref\Directories.dll

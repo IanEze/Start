@@ -1,0 +1,12 @@
+This is a text file. This text gets appended to the file. Line 1
+Line 2
+Line 3
+fhfhfhfhThis text gets appended to the file. Line 1
+Line 2
+Line 3
+Line 3
+gdgdgd
+dggdgd
+hdhdhdThis text gets appended to the file. Line 1
+Line 2
+Line 3
